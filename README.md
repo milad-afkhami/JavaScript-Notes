@@ -23,3 +23,5 @@
 ## [13 - Extra\* Data Structures In JavaScript](./13%20-%20Extra_%20Data%20Structures%20In%20JavaScript/README.md)
 
 ## [16 - Extra Bits](./16%20-%20Extra%20Bits/README.md)
+
+## [Cheat sheet](./cheatsheet_v11.pdf)
